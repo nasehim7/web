@@ -111,7 +111,7 @@ def get_avatar_context():
             'title': 'Pick your clothing',
             'options': (
                 'cardigan', 'hoodie', 'knitsweater', 'plaid', 'shirt', 'shirtsweater', 'spacecadet', 'suit', 'ethlogo',
-                'cloak', 'robe', 'pjs', 'gitcoinpro',
+                'cloak', 'robe', 'pjs', 'gitcoinpro', 'elf_inspired'
             ),
             'paid_options': {
                 'robe': 0.01,
